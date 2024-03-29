@@ -1,4 +1,4 @@
-# 🌟 Hello, Universe! I'm Vasu Vallabh 👋
+# 🌟 Hello, Universe! I'm Vasu Vallabh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="36" height="36" />
 ![Vasu Vallabh](https://github.com/Vasu-Vallabh/Vasu-Vallabh/assets/101351789/4434e07c-b8b1-4f9a-aa89-0710317f79e1)
 
 ## 🚀 About Me
@@ -17,4 +17,4 @@ Got a question? An idea? Or just want to chat about the mysteries of the univers
 - 💼 Or let's connect on [LinkedIn](https://www.linkedin.com/in/vasuvallabh)
 
 ## 📄 My Projects
-Feel free to explore my repositories like a space explorer! Clone, fork, raise issues, or submit PRs. I appreciate constructive feedback and new ideas as much as I love discovering new galaxies. Happy coding, fellow space traveller! 😊
+Feel free to explore my repositories like a space explorer! Clone, fork, raise issues, or submit PRs. I appreciate constructive feedback and new ideas as much as I love discovering new galaxies. Happy coding, fellow space traveller! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Light%20Skin%20Tone.png" alt="Astronaut Light Skin Tone" width="24" height="24" />
