@@ -1,7 +1,7 @@
-# Hello, I'm Vasu Vallabh 👋
+# Hi there, I'm Vasu Vallabh 👋
 
 ## 🚀 About Me
-I'm a full-stack developer specializing in Angular with over 5 years of experience. I love creating high-quality, scalable web applications and always strive to write clean, maintainable code.
+I'm a full-stack developer specializing in Angular with over 5 years of experience. I have extensive experience in 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 and various other open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕. I am skilled in the use of these frameworks to develop web applications based on 𝗦𝗶𝗻𝗴𝗹𝗲 𝗣𝗮𝗴𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 (𝗦𝗣𝗔) and 𝗠𝗼𝗱𝗲𝗹-𝗩𝗶𝗲𝘄-𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿 (𝗠𝗩𝗖) architectures.
 
 ## 🛠 Skills
 - Angular
