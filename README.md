@@ -1,4 +1,4 @@
-# 🌟 Hello! I'm Vasu Vallabh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="36" height="36" />
+# Hello! I'm Vasu Vallabh <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="36" height="36" />
 ![Vasu Vallabh](https://github.com/Vasu-Vallabh/Vasu-Vallabh/assets/101351789/4434e07c-b8b1-4f9a-aa89-0710317f79e1)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
