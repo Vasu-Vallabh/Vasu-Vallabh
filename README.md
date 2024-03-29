@@ -4,10 +4,11 @@
 ## 🚀 About Me
 I'm a full-stack developer, with a particular love for Angular. With over half a decade of experience under my belt, I've honed my skills in a variety of technologies, including HTML5, CSS3, TypeScript, NodeJs, React and JavaScript. 
 
-## 🛠 Skills
-- Angular
-- React.js
-- Node.js
+## 💻 Technologies I work with
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
+![NodeJs](https://img.shields.io/badge/-Nodejs-43853D?logo=Node.js)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 
 ## 📫 How to reach me
 Feel free to reach out to me at vallabhv2024@gmail.com, or on LinkedIn: https://www.linkedin.com/in/vasuvallabh.
