@@ -15,7 +15,7 @@ I'm a dedicated full-stack developer with a passion for Angular. With over five 
 - React: For building user interfaces.
 - JavaScript: The foundation of my development skills.
 
-## 🎯 Connecting with Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="36" height="36" /> Connecting with Me
 I am always open to discussions, collaborations, or simply sharing insights about web development and Angular. Feel free to reach out:
 - 📧 Shoot me an email at [vallabhv2024@gmail.com](mailto:vallabhv2024@gmail.com)
 - 💼 Or let's connect on [LinkedIn](https://www.linkedin.com/in/vasuvallabh)
